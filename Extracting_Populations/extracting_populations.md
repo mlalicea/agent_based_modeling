@@ -8,6 +8,6 @@
 
 ![](bhutan_pop19_adm2.png)
 
-#Poplation Density of Bhutan Counties and Subdivisions
+## Poplation Density of Bhutan Counties and Subdivisions
 
 ![](bhutan_pop19_both.png)
