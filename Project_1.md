@@ -10,3 +10,4 @@ Plot 1 led me to deciding to focus in on the subdivision of Chhukha.
 
 ## Defacto Settlement Boundaries
 
+Plot 3 is a map of the adm1 subdivision Chhukha, Bhutan. Inside the map of Chhukha are the 11 main settlements in the subdivision, represented by the dark gold regions. The largest region is in the southwest corner of Chhukha. This region borders India and contains the only border crossing that accepts foreign nationals. As a high-traffic area, this region has a larger population than the other settlements in Chhukha. The town that contains the border crossing, Phuentsholing, contains the densest collection of roads in the settlement. The majority of the other settlements follow the roads thro
