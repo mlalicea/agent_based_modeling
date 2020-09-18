@@ -2,8 +2,14 @@
 
 ## Geometric Bar Plot
 
-Plot 1, ** On the left, plot 1 depits a map of Bhutan's adm1 subdivisions. Each subdivision is colored using a gradient to represent population size, as described by the legend "pop19". Each adm1 is labelled with its name and population density.
-On the right, plot 1 uses a bar plot to illustrate the population size of each Bhutan adm1 subdivision. The x-axis represents population size and the y-axis contains each subdivision. The bars are labelled with the percentage of the total population and colored using a gradient to represent population size.
+Plot 1 consists of two subplots. On the left, plot 1 depits a map of Bhutan's adm1 subdivisions. Each subdivision is colored using a gradient to represent population size, as described by the legend "pop19". Each adm1 is labelled with its name and population density.
+On the right, plot 1 uses a bar plot to illustrate the population size of each Bhutan adm1 subdivision in 2019. The x-axis represents population size and the y-axis marks each subdivision. The bars are labelled with the percentage of the total population and colored using a gradient to represent population size.
+
+![Plot 1: *Bhutan in 2019*](Geometric_BarPlot/btn_adm1.png)
+
+Plot 2 is a bar plot of the population of Bhutan in 2019 broken down by adm2. The x-axis represents population size and the y-axis marks each subdivision. 
+
+![Plot 2: *Population of Bhutan in 2019 by ADM2*](Geometric_BarPlot/btn_adm2.png)
 
 Plot 1 led me to deciding to focus in on the subdivision of Chhukha. 
 
