@@ -2,7 +2,7 @@ Monica Alicea
 Data 441
 Data Science Insight 1
 
-                                                          **The ɸ-sat**
+                                                         ## The ɸ-sat
  
  On September 3, 2020, the European Space Agency (ESA) launched the world’s first earth observation satellite with artificial intelligence (AI). The AI chip, named ɸ-sat (PhiSat), is designed to process satellite images and recognize and remove images that are obscured by cloud cover. The ɸ-sat is believed to be the first step in using AI to create more efficient and effective earth observation techniques. 
 
