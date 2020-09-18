@@ -7,11 +7,11 @@ On the right, plot 1 uses a bar plot to illustrate the population size of each B
 
 ![Plot 1: *Bhutan in 2019*](Geometric_BarPlot/btn_adm1.png)
 
-Plot 2 is a bar plot of the population of Bhutan in 2019 broken down by adm2. The x-axis represents population size and the y-axis marks each subdivision. 
+Plot 2 is a bar plot of the population of Bhutan in 2019 broken down by adm2. The x-axis represents population size and the y-axis marks each adm1 subdivision. Each bar is subdivided by the adm2s within the adm1. The adm2s has a unique color fill to show differentiation, and its size is reflective of the proportion of the population that lives in the area. 
 
 ![Plot 2: *Population of Bhutan in 2019 by ADM2*](Geometric_BarPlot/btn_adm2.png)
 
-Plot 1 led me to deciding to focus in on the subdivision of Chhukha. 
+Information from both plot 1 and 2 led me to deciding to focus in on the subdivision of Chhukha. Plot 1 demonstrated that the two highest population areas in the country were the adm1s Thimphu and Chhukha. The bar plot revealed that both areas had a population of around or just above 100,000 people, which was my target population for my subdivision. This led my decision to focus on an adm1 subdivision instead of an adm2 subdivision. To decide between Chhukha and Thimphu, I used plot 2. Plot 2 revealed that while Thimphu has the higher population, most of its population is concentrated in one adm2 subdivision. After some research, I discovered that this was because the adm1 Thimphu holds the country's capital, also named Thimphu. Chhukha, on the other hand, had a more even distribution of its population across its adm2s. I believed that this distribution of the population across the division would allow me to map more defacto settlements than I could in densly populated Thimphu. My decision to focus on Chhukha was confirmed by the map in plot 1. The map showed that Chhukha borders India. Research revealed that Chhukha holds 
 
 
 ## Defacto Settlement Boundaries
