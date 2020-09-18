@@ -1,5 +1,4 @@
 Monica Alicea
-Data 441
 Data Science Insight 1
 
                                                           The ɸ-sat
