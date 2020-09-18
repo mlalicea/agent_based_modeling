@@ -13,3 +13,9 @@ Data Science Insight 1
   Furthermore, learning about the ɸ-sat reveals a need for more incorporation of AI into Earth observation tools. As current consumers of maps and earth images, it is important for us to understand the limitations of the data available to us. Learning about the common issues faced by Earth imaging—like cloud coverings—and understanding how AI can be used to fix those issues is critical for future data scientists like ourselves. 
 
   Fascinatingly, the ESA has already recognized this importance of the ɸ-sat’s technology and has begun a push towards incorporating more AI into satellites. As early as November of 2019, the ESA announced the development of a successor to ɸ-sat—ɸ-Sat-2. ɸ-Sat-2 is being developed to address a wide range of issues. ESA hopes that ɸ-Sat-2 will use AI to transform satellite images into street maps, do autonomous detection and classification of maritime vessels, monitor forests and land anomalies, and do improved cloud detection in satellite images. The expanded capabilities of ɸ-Sat-2 have endless applications to data science. Mostly, the ɸ-Sat-2 acts an important reminder to data scientists that our most important skill is looking to the future of the field, identifying the current limitations, and creating something that breaks those boundaries.
+
+
+**Sources:**
+https://www.esa.int/Applications/Observing_the_Earth/Ph-sat/First_Earth_observation_satellite_with_AI_ready_for_launch
+http://www.un-spider.org/news-and-events/news/new-esa-satellite-uses-ai-make-data-delivery-more-efficient
+http://www.esa.int/Applications/Observing_the_Earth/Copernicus/Smallsats_win_big_prize_at_Copernicus_Masters
