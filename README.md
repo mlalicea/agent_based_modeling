@@ -8,4 +8,4 @@
 
 3. [Extracting Populations from a Raster and Aggregating to each Unit](Extracting_Populations/extracting_populations.md)
 
-4. [Project 1](Project_1.md)
+4. [Project 1](Project_1.md), [Data Science Insight 1](Data_Science_Insights/1_data_science_insights.md)
