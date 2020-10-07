@@ -31,4 +31,4 @@ For my location, I chose the district of Siraha, Nepal. Siraha lies within Provi
 ## Map of Households in Siraha, Nepal
 Below is a map of Siraha that shows the distribution of households in the district, as found using the survey.
 
-![](NHS_data/siraha_pipo.png)
+![](NHS_data/sir_pipo.png)
