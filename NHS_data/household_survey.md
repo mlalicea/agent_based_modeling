@@ -1,4 +1,4 @@
-# Household Survey Information
+                                                Household Survey Information
 
 ## Retrieving Data
 To retrieve country survey data from the DHS, I created a research proposal that explained my use of Nepal's survey data:
@@ -24,9 +24,11 @@ Location of selected area: SHDIST - 16 (Siraha, Province 2, Nepal)
 Gender of household members: hv104  
 Age of household members: hv105  
 
-## Siraha, Nepal
+## Siraha, Nepal  Information
 
 For my location, I chose the district of Siraha, Nepal. Siraha lies within Province 2. It shares a border with India and is one of the few districts that has an agreed route for Mutual Trade with India. Major cities in the district are connect by the Mahendra National Highway and smaller towns are connected by the more rural Postal Highway.  
 
 ## Map of Households in Siraha, Nepal
+Below is a map of Siraha that shows the distribution of households in the district, as found using the survey.
 
+![](NHS_data/siraha_pipo.png)
