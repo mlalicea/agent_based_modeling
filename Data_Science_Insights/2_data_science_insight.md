@@ -13,7 +13,7 @@ This new method of inundation modeling led to an R2 score of more than 99% acros
 
 The ability to forecast the size and severity of floods is crucial to creating informed agent-based models. If a region is likely to become flooded, agent-based modeling is the most effective tool for predicting the movements of people as they flee the area. Accurate flood modeling becomes increasingly important as climate change worsens and sea levels continue to rise. If we can accurately predict how coastal regions will be flooded, we can determine how many people, animals, and homes will be affected. This can allow people the chance to either prepare for flooding or flee. Using agent-based modeling, we can predict how much infrastructure needs to be put in place to facilitate helping people move and to support those who stay with resources. As such, we can see that Google’s morphological inundation model and overall dedication to improving flood forecasting is beneficial not only to agent-based modeling but also humanity. 
 
-                                                Source
+                                                  Source
 https://ai.googleblog.com/2020/09/the-technology-behind-our-recent.html?m=1
 
                                                   
