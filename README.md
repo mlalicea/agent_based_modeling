@@ -15,3 +15,5 @@
 ## Data Science Insights
 
 1. [Data Science Insight 1](Data_Science_Insights/1_data_science_insights.md)
+2. [Data Science Insight 2](Data_Science_Insights/2_data_science_insight.md)
+
