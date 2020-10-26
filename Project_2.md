@@ -49,7 +49,8 @@ Below is a plot of the synthetically generated population for Province 2. The em
 
 Overall, my synthetically generated population more closely approximates reality than a synthetic population generated with spatial randomness because of the real data that acts as the backbone to my project. Every data point in my synthetic population was created based on a representative sample of the actual population. This guarantees a certain level of accuracy in the demographic attributes of the households and persons. Spatially, my population is also more accurate than a spatially random population because my household locations were generated based on exising information of the density of the population in each area of the country. 
 
-To demonstrate the power of my synthetic population, I began by creating heatmaps with the raw, scaled, normalized, and percentized data. Each heat map contains all of the possible combinations between all of the main demographic attributes I studied. The heat map with the most purple has the least predictive power. The heat maps show that the percentized data has the most predictive power. 
+To demonstrate the power of my synthetic population, I began by creating heatmaps with the raw, scaled, normalized, and percentized data. Each heat map contains all of the possible combinations between all of the main demographic attributes I studied. The heat map with the most purple has the least predictive power. The heat maps show that the percentized data has the most predictive power.
 
+![](DHS_data/raw1.png) ![](DHS_data/scaled.png) ![](DHS_data/normalized.png) ![](DHS_data/percentized.png)
 
 I then used the tidymodels, randomForest, and keras libraries to build several predictive models. Using the variables size, age, and gender, I predicted education via the multinomial, ranger, and random forest regression, and neural network models. 
