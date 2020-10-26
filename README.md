@@ -10,7 +10,7 @@
 
 4. [Project 1](Project_1.md)
 
-5. [Project 2](NHS_data/household_survey.md)
+5. [Project 2](Project_2.md)
 
 ## Data Science Insights
 
