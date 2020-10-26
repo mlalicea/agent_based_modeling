@@ -51,3 +51,5 @@ Overall, my synthetically generated population more closely approximates reality
 
 To demonstrate the power of my synthetic population, I began by creating heatmaps with the raw, scaled, normalized, and percentized data. Each heat map contains all of the possible combinations between all of the main demographic attributes I studied. The heat map with the most purple has the least predictive power. The heat maps show that the percentized data has the most predictive power. 
 
+
+I then used the tidymodels, randomForest, and keras libraries to build several predictive models. Using the variables size, age, and gender, I predicted education via the multinomial, ranger, and random forest regression, and neural network models. 
