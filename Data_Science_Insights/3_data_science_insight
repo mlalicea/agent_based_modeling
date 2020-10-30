@@ -1,6 +1,6 @@
 Data Science Insight 3
 
-                                               Short-term Predicitons in Agent-based Modeling
+                                          Short-term Predicitons in Agent-based Modeling
                                                       
 
 Agent-based models function by identifying common characteristics across individuals, and then using those characteristics to forecast future actions of the group. While this is extremely effective when modeling a system’s behavior in the long-term, agent-based models notoriously struggle with making short-term predictions. Typically, agent-based models are calibrated once using historical data and then use that knowledge to project future data. However, in a stochastic and dynamic system—a system that both contains randomness and that changes over time, respectively—the model variables will eventually begin to differ from their historical values. Since agent-based models are generally incapable of incorporating up-to-date data, over time, their original projections no longer reflect reality. To mitigate this issue, Le-Minh Kieu, Nicolas Malleson, and Alison Heppenstall designed a new approach to agent-based modeling that combines parameter calibration and data assimilation to dynamically optimize these models and increase the accuracy of their real-time predictions.
@@ -11,5 +11,5 @@ BusSim-truth was found to be successful at modeling the complex bus system becau
 
 This new method of short-term predictions via agent-based modeling is useful for predicting bus route operations like bus location and arrival time. Beyond that, however, the ability to model a complex system that is both dynamic and stochastic in real-time is applicable to many passenger information systems and intelligent transport systems, as well as systems in many other fields. This research and new technique furthers the agent-based modeling field’s ultimate goal of increasing model accuracy while making them as up-to-date and close to reality as possible. 
 
-                                                  Source
+                                                          Source
 https://royalsocietypublishing.org/doi/10.1098/rsos.191074
