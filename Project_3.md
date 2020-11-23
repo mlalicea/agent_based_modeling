@@ -40,10 +40,9 @@ Names of origin and destination administrative subdivisions:
 13. Seti  
 14. Mahakali  
 
-After creating this od matrix, I begin to make a gravity model. To do this, I found the 
+After creating this od matrix, I begin to make a gravity model. To do this, I found the path betweeen the centerpoints of every division. These paths help reflect the physical movement of people between the subdivisions. Specifically, this data reflects five years of data (2005-2010) on migration. The below simulation shows these migration patterns between each subdivision over 2005-2010. To improve this model, I would modify the time variable by using more granular data. Instead of five years, using one year data for the most recent year would allow the model to be as updated as possible. 
 Produce an animation of migration and elaborate on how your OD matrix and gravity model could be integrated with your simulation.
 How would you modify the number of points departing from each origin?
-How would you modify the time variable? What scale is the temporal dimension at this level?
 How would the gravity model update these attributes in order to produce a different simulation of migration that more closely approximates reality?
 
 ![](project_3/output.gif)
