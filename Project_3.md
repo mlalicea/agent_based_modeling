@@ -40,19 +40,15 @@ Names of origin and destination administrative subdivisions:
 13. Seti  
 14. Mahakali  
 
-After creating this od matrix, I begin to make a gravity model. To do this, I found the path betweeen the centerpoints of every division. These paths help reflect the physical movement of people between the subdivisions. Specifically, this data reflects five years of data (2005-2010) on migration. The below simulation shows these migration patterns between each subdivision over 2005-2010. To improve this model, I would modify the time variable by using more granular data. Instead of five years, using one year data for the most recent year would allow the model to be as updated as possible. 
-Produce an animation of migration and elaborate on how your OD matrix and gravity model could be integrated with your simulation.
-How would you modify the number of points departing from each origin?
-How would the gravity model update these attributes in order to produce a different simulation of migration that more closely approximates reality?
-
+After creating this od matrix, I begin to make a gravity model. To do this, I found the path betweeen the centerpoints of every division. These paths help reflect the physical movement of people between the subdivisions. Specifically, this data reflects five years of data (2005-2010) on migration. The below simulation shows these migration patterns between each subdivision over 2005-2010. To improve this model, I would modify the time variable by using more granular data. Instead of five years, using one year data for the most recent year would allow the model to be as up to date and close to reality as possible. 
 ![](project_3/output.gif)
 
 ## Voronoi polygons of Siraha, Nepal
-To look more granularly at movement in Nepal, I created a tesslation of voronoi polygons representing Siraha-- an adm3 district in Nepal. The voronoi polygon plot illustrates the main settlements in Siraha and their center points.
+To look more granularly at movement in Nepal, I created a tesslation of voronoi polygons representing Siraha-- an adm3 district in Nepal. The voronoi polygon plot illustrates the main settlements in Siraha and their center points. Using the information and by calculating the distance between each settlement, I could begin to build an od matrix for this higher resolution subdivision. To produce an OD matrix for Siraha, I would also have to find migration data at the adm3 level and data for another varaible that provides information on the attractiveness of the subdivisions. For example, Siraha has a famous border crossing that would cause a lot of in/out migration into the area. Nepal is very mountainous, and as such has a limited number of major roads and transporation hubs (like the Siraha border crossing). Therefore, transportation infrastructure would play a large role in migration patterns. Transportation information could be easily obtained through the road data I used in project 1 and would significantly improve my model results. With information about the distance between each subdivision, transportation hubs, and migration data, I could successfully create an od matrix. 
 
 ![](project_3/sir_vornoi.png)
 
-Using the information about main settlements and their center points, and by calculating the distance between each settlement, I could begin to build an od matrix for this higher resolution subdivision. To produce an OD matrix for Siraha, I would also have to find migration data at the adm3 level and data for another varaible that provides information on the attractiveness of the subdivisions. For example, Siraha has a famous border crossing that would cause a lot of in/out migration into the area. Nepal is very mountainous, and as such has a limited number of major roads and transporation hubs (like the Siraha border crossing). Therefore, transportation infrastructure would play a large role in migration patterns. Transportation information could be easily obtained through the road data I used in project 1 and would significantly improve my model results. With information about the distance between each subdivision, transportation hubs, and migration data, I could successfully create an od matrix. 
+
 
 *How would you modify the number of points departing from each origin? How would you determine each points destination?*
 
