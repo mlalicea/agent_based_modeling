@@ -48,16 +48,3 @@ To look more granularly at movement in Nepal, I created a tesslation of voronoi 
 
 ![](project_3/sir_vornoi.png)
 
-
-
-*How would you modify the number of points departing from each origin? How would you determine each points destination?*
-
-
-How would you modify the time variable? What scale is the temporal dimension at this level?
-
-
-How would the gravity model update these attributes in order to produce a different simulation of migration?
-
-
-How would you go about integrating migration and transport activities at the differing geospatial and temporal scales of these hierarchical levels?
-
