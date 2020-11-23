@@ -1,4 +1,6 @@
                                               Final Project: Gravity Model of Nepal
+The goal of the final project to model movement across Nepal. 
+
 ## Analysis of London Gravity Model 
 As an introduction to gravity modeling, I attempted to construct a model for London using "Dr Ds Idiots Guide to Spatial Interaction Modelling for Dummies". To model movement across London, I used census data that reported people's home, workplace, and mode of transport. This data allowed me to estimate commuter flows across boroughs. Using this commuter flow data (which excludes commutes that occur internally within each borough) and the distance between each borough, I could make a model of spatial interactions across London. Below is the resulting origin-destination matrix for London. The matrix rows and columns represent the boroughs, with each cell representing the distance between each borough. 
 
@@ -38,8 +40,7 @@ Names of origin and destination administrative subdivisions:
 13. Seti  
 14. Mahakali  
 
-
-Describe your OD matrix and how it is used to model migration across the administrative subdivisions that comprise your selected location.
+After creating this od matrix, I begin to make a gravity model. To do this, I found the 
 Produce an animation of migration and elaborate on how your OD matrix and gravity model could be integrated with your simulation.
 How would you modify the number of points departing from each origin?
 How would you modify the time variable? What scale is the temporal dimension at this level?
@@ -48,12 +49,11 @@ How would the gravity model update these attributes in order to produce a differ
 ![](project_3/output.gif)
 
 ## Voronoi polygons of Siraha, Nepal
-*At the level of your selected, higher resolution administrative subdivision (where you produced defacto descriptions of settlements), use the center points of each settlement to produce a tesselation of voronoi polygons. Similar to your analysis of the higher level administrative subdivisions, address the following.*
 To look more granularly at movement in Nepal, I created a tesslation of voronoi polygons representing Siraha-- an adm3 district in Nepal. The voronoi polygon plot illustrates the main settlements in Siraha and their center points.
 
 ![](project_3/sir_vornoi.png)
 
-Using this information and by calculating the distance between each settlement, I could begin to build an od matrix for this higher resolution subdivision. To produce an OD matrix for Siraha, I would also have to find migration data at the adm3 level and data for another varaible that provides information on the attractiveness of each district. For example, Siraha has a famous border crossing that would cause a lot of in/out migration into the area. I do not have this data, but it would significantly improve my model results. With information about the distance between each subdivision, border crossings and other important hubs of transportation, and migration data, I could successfully create an od matrix. 
+Using the information about main settlements and their center points, and by calculating the distance between each settlement, I could begin to build an od matrix for this higher resolution subdivision. To produce an OD matrix for Siraha, I would also have to find migration data at the adm3 level and data for another varaible that provides information on the attractiveness of the subdivisions. For example, Siraha has a famous border crossing that would cause a lot of in/out migration into the area. Nepal is very mountainous, and as such has a limited number of major roads and transporation hubs (like the Siraha border crossing). Therefore, transportation infrastructure would play a large role in migration patterns. Transportation information could be easily obtained through the road data I used in project 1 and would significantly improve my model results. With information about the distance between each subdivision, transportation hubs, and migration data, I could successfully create an od matrix. 
 
 *How would you modify the number of points departing from each origin? How would you determine each points destination?*
 
