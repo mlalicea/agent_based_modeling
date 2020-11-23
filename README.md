@@ -12,6 +12,8 @@
 
 5. [Project 2](Project_2.md)
 
+6. [Final Project](Project_3.md)
+
 ## Data Science Insights
 
 1. [Data Science Insight 1](Data_Science_Insights/1_data_science_insights.md)
