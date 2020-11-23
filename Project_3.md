@@ -48,11 +48,21 @@ How would the gravity model update these attributes in order to produce a differ
 ![](project_3/output.gif)
 
 ## Voronoi polygons of Siraha, Nepal
-At the level of your selected, higher resolution administrative subdivision (where you produced defacto descriptions of settlements), use the center points of each settlement to produce a tesselation of voronoi polygons. Similar to your analysis of the higher level administrative subdivisions, address the following.
-How would you produce an OD matrix of these higher resolution entities? Which variables would you include? Are you lacking any data that would improve upon your model results?
-How would you modify the number of points departing from each origin? How would you determine each points destination?
-How would you modify the time variable? What scale is the temporal dimension at this level?
-How would the gravity model update these attributes in order to produce a different simulation of migration?
-How would you go about integrating migration and transport activities at the differing geospatial and temporal scales of these hierarchical levels?
+*At the level of your selected, higher resolution administrative subdivision (where you produced defacto descriptions of settlements), use the center points of each settlement to produce a tesselation of voronoi polygons. Similar to your analysis of the higher level administrative subdivisions, address the following.*
+To look more granularly at movement in Nepal, I created a tesslation of voronoi polygons representing Siraha-- an adm3 district in Nepal. The voronoi polygon plot illustrates the main settlements in Siraha and their center points.
 
 ![](project_3/sir_vornoi.png)
+
+Using this information and by calculating the distance between each settlement, I could begin to build an od matrix for this higher resolution subdivision. To produce an OD matrix for Siraha, I would also have to find migration data at the adm3 level and data for another varaible that provides information on the attractiveness of each district. For example, Siraha has a famous border crossing that would cause a lot of in/out migration into the area. I do not have this data, but it would significantly improve my model results. With information about the distance between each subdivision, border crossings and other important hubs of transportation, and migration data, I could successfully create an od matrix. 
+
+*How would you modify the number of points departing from each origin? How would you determine each points destination?*
+
+
+How would you modify the time variable? What scale is the temporal dimension at this level?
+
+
+How would the gravity model update these attributes in order to produce a different simulation of migration?
+
+
+How would you go about integrating migration and transport activities at the differing geospatial and temporal scales of these hierarchical levels?
+
