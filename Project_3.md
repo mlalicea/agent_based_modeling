@@ -15,14 +15,13 @@ For my final project, I modeled migration patterns across Nepal. To do this, I n
 ![](project_3/outmigration.png)
 
 ## Origin-Destination Matrix and Gravity Model for Nepal
-To create a gravity model representing the migration of the plots above, I created a matrix similar to the one I created for the London gravity model. I began by finding the distance and migration between each adm2 district. As an additional variable to measure movement, I also accounted for the amount of nighttime lights across the country (designated by variable "ntl"). Finally, the table has geometry columns containing the longitude and latitude of the center point for each origin and destination district. A sample of this table is below. 
+After plotting the in and out migrations, I began to work on the next step of modeling movement in Nepal: creating an origin-destination matrix, similar to the one I created for the London gravity model. First, I found the distance and migration flow between each adm2 district. I also collected the nighttime lights data across the country (designated by variable "ntl"). Finally, I found the center point of each district. Altogether, I combined distance, migration flow, nighttime lights, and center points to create a table of information about movement between every district in Nepal. A sample of this table is below.
 
 ![](project_3/OD_npl.png)
 
-All of the information in the above table contributed to an origin-destination matrix for movement in Nepal. The below matrix has 14 rows and columns, with each representing an origin and destination subdivision. Each cell contains the migration information between the column and row subdivision. Internal migrations are not considered, so cells that represent the same origin and destination subdivision have zero migration. This matrix allows me to model spatial interactions across all of Nepal's adm2s.
+All of the information in the above table contributed to my origin-destination matrix of movement in Nepal. The below matrix has 14 rows and columns, with each representing an origin and destination subdivision. Each cell contains the migration information between the column and row subdivision. Internal migrations are not considered, so cells that represent the same origin and destination subdivision have zero migration. This matrix demonstrates spatial interactions across all of Nepal's adm2s.
 
 ![](project_3/odm_npl.png)
-
 Names of origin and destination administrative subdivisions:
 1. Mechi  
 2. Koshi  
