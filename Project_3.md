@@ -38,7 +38,7 @@ Names of origin and destination administrative subdivisions:
 13. Seti  
 14. Mahakali  
 
-After creating this OD matrix, I began to make the gravity model for Nepal. To do this, I found the paths between each division, from center point to center point. These paths model the movement of people between the subdivisions, shown through the plot below. To simulate this movement, I created the gif below. The number of dots moving along a path reflects the amount of migration between the subdivisions. The simulation illustrates five years of migration data (2005-2010). To improve the model, I would modify the time variable by using one year of data instead of five years. Using one year of data, specifically for the most recent year, would allow the model to be as up to date and close to reality as possible. 
+After creating this OD matrix, I began to make the gravity model for Nepal. To do this, I found the paths between each division, from center point to center point. These paths model the movement of people between the subdivisions, shown through the plot below. To simulate this movement, I created the gif also below. The number of dots moving along a path reflects the amount of migration between the subdivisions. The simulation illustrates five years of migration data (2005-2010). To improve the model, I would modify the time variable by using one year of data instead of five years. Using one year of data, specifically for the most recent year, would allow the model to be as up to date and close to reality as possible. 
 ![](project_3/line_plot.png) ![](project_3/output.gif)
 
 ## Voronoi polygons of Siraha, Nepal
